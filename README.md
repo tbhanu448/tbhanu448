@@ -14,4 +14,5 @@ HTML | CSS | JavaScript | Git | GitHub
 🎯 Goal:
 To secure a role in the IT industry as a Full Stack Developer and build a strong career through skills and continuous learning.
 
-⚡ I believe in consistency over talent.
+⚡ I believe in consistency over taent.
+
