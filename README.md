@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Ankit 👨‍💻
 
-<!--
-**tbhanu448/tbhanu448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Graduate (2025) | Currently pursuing MCA  
+💻 Aspiring Full Stack Developer (MERN Stack)  
 
-Here are some ideas to get you started:
+🚀 What I'm doing:
+- Learning Web Development (HTML, CSS, JavaScript)  
+- Building real-world projects and uploading on GitHub  
+- Improving problem-solving and consistency  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills (In Progress):
+HTML | CSS | JavaScript | Git | GitHub  
+
+🎯 Goal:
+To secure a role in the IT industry as a Full Stack Developer and build a strong career through skills and continuous learning.
+
+⚡ I believe in consistency over talent.
