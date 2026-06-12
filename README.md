@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hi 👋, I'm Ankit Jadaun</h1>
 <h3 align="center">Frontend Developer | MERN Stack Learner | Passionate about Building Modern Web Applications</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
@@ -59,10 +59,10 @@
 ### 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/ankit-jadaun-412185370">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="abhix696@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
