@@ -1,76 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ankit Jadaun</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | Passionate about Building Modern Web Applications</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+# Ankit Jadaun
 
-### 🚀 About Me
+### MERN Stack Developer • Frontend Developer
 
-- 🌱 Currently learning **MERN Stack Development**
-- 💻 Building responsive and user-friendly web applications
-- 🔭 Looking for opportunities in **Frontend Development**
-- 📚 Improving my JavaScript, React, and Backend skills daily
-- ⚡ Fun Fact: I enjoy turning ideas into interactive web experiences
+Building responsive, scalable, and user-friendly web applications with modern technologies.
 
----
+[LinkedIn](https://www.linkedin.com/in/ankit-jadaun-412185370) • [Email](mailto:ankitjadoun360@gmail.com)
 
-### 🛠️ Tech Stack
-
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+* Frontend-focused MERN Stack Developer
+* Passionate about creating modern and responsive web experiences
+* Currently strengthening Full-Stack Development skills
+* Open to Internship and Entry-Level Software Developer opportunities
 
 ---
 
-### 🏆 GitHub Trophies
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tbhanu448&theme=tokyonight&row=1&column=7" />
-</p>
+**Frontend**
+
+HTML • CSS • JavaScript • TypeScript • React.js • Tailwind CSS • Bootstrap
+
+**Backend**
+
+Node.js • Express.js • MongoDB
+
+**Tools**
+
+Git • GitHub • Postman • VS Code
+
+**Other**
+
+GSAP • REST APIs • Responsive Design
 
 ---
 
-### 🌐 Connect With Me
+## Current Focus
 
-<p>
-<a href="www.linkedin.com/in/ankit-jadaun-412185370">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="abhix696@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+* Building production-ready MERN applications
+* Advanced React and TypeScript
+* Clean Code & Best Practices
+* Problem Solving and JavaScript Fundamentals
 
 ---
 
-### 💡 Quote
+## Featured Projects
 
-> "Consistency beats talent when talent doesn't work hard."
+### E-Commerce Platform
 
-⭐ Feel free to explore my repositories and connect with me!
+Full-stack MERN application with authentication, cart management, and product features.
+
+### Job Portal
+
+Role-based job posting and application platform.
+
+### Admin Dashboard
+
+Responsive dashboard with analytics and modern UI.
+
+---
+
+## Contact
+
+📧 [ankitjadoun360@gmail.com](mailto:ankitjadoun360@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/ankit-jadaun-412185370](http://www.linkedin.com/in/ankit-jadaun-412185370)
+
+---
+
+> Consistency and continuous learning drive great software development.
