@@ -84,8 +84,8 @@ const ankit = {
 ### `github.stats`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tbhanu448&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9&include_all_commits=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbhanu448&layout=compact&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://readme-stats.itsvg.in?username=tbhanu448&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9&include_all_commits=true" />
+  <img width="41%" src="https://readme-stats.itsvg.in/api/top-langs/?username=tbhanu448&layout=compact&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
